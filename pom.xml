@@ -107,7 +107,7 @@
     <dependency>
       <groupId>edu.washington.cs.types.checker</groupId>
       <artifactId>checker-framework</artifactId>
-      <version>1.7.0</version>
+      <version>1.7.5</version>
     </dependency> 
   </dependencies>
 
@@ -145,7 +145,7 @@
       <dependency>
 	<groupId>edu.washington.cs.types.checker</groupId>
 	<artifactId>checker-framework</artifactId>
-	<version>1.7.0</version>
+	<version>1.7.5</version>
       </dependency>
 
       <dependency>
